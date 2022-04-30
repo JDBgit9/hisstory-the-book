@@ -11,6 +11,7 @@
     "browserify": "^17.0.0",
     "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
+    "chrome-dgram": "^3.0.6",
     "merge": "^2.1.1",
     "q": "^1.5.1",
     "react": "^18.1.0",
